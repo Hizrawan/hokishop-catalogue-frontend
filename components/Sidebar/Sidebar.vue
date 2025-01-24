@@ -36,6 +36,11 @@ const menu = <Section[] | Link[]>[
     icon: "uil:home",
   },
   {
+    label: "sidebar.products",
+    to: "/products",
+    icon: "uil:mobile-android",
+  },
+  {
     label: "Templates",
     icon: "uil:file",
     links: [

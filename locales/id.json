@@ -12,6 +12,7 @@
     "logout": "Keluar"
   },
   "sidebar": {
-    "dashboard": "Halaman Utama"
+    "dashboard": "Halaman Utama",
+     "products":"Produk"
   }
 }

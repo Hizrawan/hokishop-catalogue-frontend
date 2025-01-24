@@ -12,6 +12,7 @@
     "logout": "Logout"
   },
   "sidebar": {
-    "dashboard": "Dashboard"
+    "dashboard": "Dashboard",
+    "products":"Products"
   }
 }
