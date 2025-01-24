@@ -1,0 +1,17 @@
+{
+  "auth": {
+    "login": {
+      "title": "Login",
+      "loginToService": "Login to {service}",
+      "loginViaXinchuanAuth": "Login via Xinchuan Auth"
+    },
+    "callback": {
+      "authenticating": "Authenticating...",
+      "authenticated": "Authenticated"
+    },
+    "logout": "Logout"
+  },
+  "sidebar": {
+    "dashboard": "Dashboard"
+  }
+}

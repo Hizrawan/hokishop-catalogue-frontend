@@ -1,0 +1,17 @@
+{
+  "auth": {
+    "login": {
+      "title": "登入",
+      "loginToService": "登入至 {service}",
+      "loginViaXinchuanAuth": "透過 Xinchuan Auth 登入"
+    },
+    "callback": {
+      "authenticating": "正在驗證...",
+      "authenticated": "已驗證"
+    },
+    "logout": "登出"
+  },
+  "sidebar": {
+    "dashboard": "首頁"
+  }
+}

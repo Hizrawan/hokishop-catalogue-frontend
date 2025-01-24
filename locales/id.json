@@ -1,0 +1,17 @@
+{
+  "auth": {
+    "login": {
+      "title": "Masuk",
+      "loginToService": "Masuk ke {service}",
+      "loginViaXinchuanAuth": "Masuk via Xinchuan Auth"
+    },
+    "callback": {
+      "authenticating": "Mengautentikasi...",
+      "authenticated": "Terautentikasi"
+    },
+    "logout": "Keluar"
+  },
+  "sidebar": {
+    "dashboard": "Halaman Utama"
+  }
+}
