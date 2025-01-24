@@ -83,6 +83,114 @@ const exampleRows = ref<ExampleInterface[]>([
     age: 30,
     nationality: "Germany",
   },
+  {
+    id: "1",
+    name: "John Doe",
+    age: 25,
+    nationality: "USA",
+  },
+  {
+    id: "2",
+    name: "Jane Doe",
+    age: 22,
+    nationality: "UK",
+  },
+  {
+    id: "3",
+    name: "Max Mustermann",
+    age: 30,
+    nationality: "Germany",
+  },
+  {
+    id: "1",
+    name: "John Doe",
+    age: 25,
+    nationality: "USA",
+  },
+  {
+    id: "2",
+    name: "Jane Doe",
+    age: 22,
+    nationality: "UK",
+  },
+  {
+    id: "3",
+    name: "Max Mustermann",
+    age: 30,
+    nationality: "Germany",
+  },
+  {
+    id: "1",
+    name: "John Doe",
+    age: 25,
+    nationality: "USA",
+  },
+  {
+    id: "2",
+    name: "Jane Doe",
+    age: 22,
+    nationality: "UK",
+  },
+  {
+    id: "3",
+    name: "Max Mustermann",
+    age: 30,
+    nationality: "Germany",
+  },
+  {
+    id: "1",
+    name: "John Doe",
+    age: 25,
+    nationality: "USA",
+  },
+  {
+    id: "2",
+    name: "Jane Doe",
+    age: 22,
+    nationality: "UK",
+  },
+  {
+    id: "3",
+    name: "Max Mustermann",
+    age: 30,
+    nationality: "Germany",
+  },
+  {
+    id: "1",
+    name: "John Doe",
+    age: 25,
+    nationality: "USA",
+  },
+  {
+    id: "2",
+    name: "Jane Doe",
+    age: 22,
+    nationality: "UK",
+  },
+  {
+    id: "3",
+    name: "Max Mustermann",
+    age: 30,
+    nationality: "Germany",
+  },
+  {
+    id: "1",
+    name: "John Doe",
+    age: 25,
+    nationality: "USA",
+  },
+  {
+    id: "2",
+    name: "Jane Doe",
+    age: 22,
+    nationality: "UK",
+  },
+  {
+    id: "3",
+    name: "Max Mustermann",
+    age: 30,
+    nationality: "Germany",
+  },
 ]);
 
 const handlePagination = (page: number) => {
@@ -91,7 +199,7 @@ const handlePagination = (page: number) => {
 
 const examplePagination = ref<Pagination>({
   page: 1,
-  perPage: 20,
+  perPage: 1,
   totalPages: 5,
 });
 </script>

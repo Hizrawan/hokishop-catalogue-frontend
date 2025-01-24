@@ -3,7 +3,7 @@
     class="flex min-h-screen w-64 flex-col justify-between border-r p-2 dark:border-gray-800 dark:bg-gray-900"
   >
     <div class="flex flex-col items-center justify-center gap-2 -space-y-2">
-      <span class="text-2xl font-bold">Headless</span>
+      <span class="text-2xl font-bold">Catalogues</span>
       <span class="text-sm">Admin Panel</span>
     </div>
     <div class="flex flex-1 flex-col gap-2 py-8">
